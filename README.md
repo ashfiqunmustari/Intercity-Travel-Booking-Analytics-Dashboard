@@ -72,6 +72,13 @@ Additional engineered features include:
 ![Cancellation Dashboard](images/6.cancellation_analysis_dashboard_1.png)
 ![Cancellation Dashboard](images/7.cancellation_analysis_dashboard_2.png)
 
+## Excel Reporting
+
+Supplementary business reports were created in Microsoft Excel using Pivot Tables and Pivot Charts.
+
+![Excel Dashboard](images/8.excel_revenue_analysis.png)
+![Excel Dashboard](images/9.excel_customer_analysis.png)
+
 ---
 
 ## Author
