@@ -55,15 +55,15 @@ Additional engineered features include:
 
 ## Revenue Analysis
 
-![Revenue Dashboard](images/2.revenue_dashboard1.png)
-![Revenue Dashboard](images/3.revenue_dashboard2.png)
+![Revenue Dashboard](images/2.revenue_dashboard_1.png)
+![Revenue Dashboard](images/3.revenue_dashboard_2.png)
 
 ---
 
 ## Customer Analysis
 
-![Customer Dashboard](images/4.customer_dashboard1.png)
-![Customer Dashboard](images/5.customer_dashboard2.png)
+![Customer Dashboard](images/4.customer_dashboard_1.png)
+![Customer Dashboard](images/5.customer_dashboard_2.png)
 
 ---
 
