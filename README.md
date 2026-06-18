@@ -49,7 +49,7 @@ Additional engineered features include:
 
 ## Executive Overview
 
-![Executive Dashboard](1.images/executive_dashboard.png)
+![Executive Dashboard](images/1.executive_dashboard.png)
 
 ---
 
